@@ -1,5 +1,6 @@
                                                                                                        
 Traffic Flow Prediction using LSTM for next 10 minutes
+
 A demonstration of using Long Short-Term Memory (LSTM) neural networks to predict future traffic density, which can help city planners and navigation systems optimize traffic light timings and reduce congestion.
 Overview:
 This project demonstrates how machine learning can be applied to transportation optimization by:
